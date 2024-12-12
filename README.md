@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hareetima02" alt="hareetima02" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/hareetima02](https://github.com/hareetima02)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/hareetima02)
 
-- 📝 I regularly write poems on [https://allpoetry.com/GreenInkTales](https://allpoetry.com/GreenInkTales)
+- 📝 I regularly write poems on [AllPoetry.com](https://allpoetry.com/GreenInkTales)
 
 - 📫 How to reach me **hareetima99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n-e8F2cTma3lhEhiXb4wu_PT3vLkbNHd/view?usp=sharing](https://drive.google.com/file/d/1n-e8F2cTma3lhEhiXb4wu_PT3vLkbNHd/view?usp=sharing)
+- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1n-e8F2cTma3lhEhiXb4wu_PT3vLkbNHd/view?usp=sharing)
 
-- ⚡ Fun fact **I am intrested in astrology ;D**
+- ⚡ Fun fact abour me, **I am intrested in astrology ;D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
