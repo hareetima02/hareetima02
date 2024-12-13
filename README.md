@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Hareetima</h1>
+<h1 align="center">Hey👋, I'm Hareetima</h1>
 <h3 align="center">An aspiring Machine Learning Engineer, devoted to inspire hope through innovation.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hareetima02" alt="hareetima02" /></a> </p>
