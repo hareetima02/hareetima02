@@ -3,8 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hareetima02&theme=onestar&no-bg=true" alt="github-trophies" /></a> </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hareetima02&theme=radical" alt="GitHub Streak Stats" /></p>
-
 <h2 align="center" style="color: #8e44ad;">✨ About Me ✨</h2>
 <ul style="list-style-type: none; font-size: 18px;">
   <li>👨‍💻 Explore my projects: <a href="https://github.com/hareetima02" style="color: #2980b9;">GitHub</a></li>
@@ -18,7 +16,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/hareetima-sonkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/hareetima" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/hareetima" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 <h2 align="center" style="color: #e67e22;">🛠️ My Toolkit 🛠️</h2>
