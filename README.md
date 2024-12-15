@@ -15,7 +15,6 @@
 <h2 align="center" style="color: #3498db;">🌐 Connect with Me 🌐</h2>
 <p align="center">
   <a href="https://linkedin.com/in/hareetima-sonkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/hareetima" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 <h2 align="center" style="color: #e67e22;">🛠️ My Toolkit 🛠️</h2>
